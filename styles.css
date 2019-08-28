@@ -1,0 +1,52 @@
+header {
+      color:#22dde0;
+      font-family: sans-serif;
+    }
+body {
+  background-color:black;
+}
+h1 {
+  color:aqua;
+  text-align:center;
+  font-size:100px;
+  background-color:black;
+  font-family:sans-serif;
+}
+p  {
+  color:#fc0307;
+  font-size:50px;
+}
+
+b {
+color:#14fc03;
+}
+b:hover {
+  color:#22dde0;
+}
+h2 {
+  color:aqua;
+  text-align:center;
+  font-size:100px;
+  background-color:black;
+  font-family:sans-serif;
+}
+.plat {
+font-family: arial;
+}
+footer {
+  color:#22dde0;
+  font-family: sans-serif;
+}
+.center {
+  text-align:center;
+}
+.description {
+  font-size:15px;
+  text-align: center;
+  font-family: arial;
+}
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
